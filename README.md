@@ -23,7 +23,7 @@ Introducing CryptoWave, a cutting-edge cryptocurrency app designed to revolution
 -   **Portfolio Management:** Empowering users with the ability to effortlessly save and monitor their current crypto holdings, CryptoWave simplifies portfolio management.
     
   
-![CryptoWaveGroup](https://github.com/aslamdodeen/IOS-Portfolio/assets/5517052/d36e3078-ad22-4b3a-9039-3993b3a01bce) 
+![CryptoWave-min](https://github.com/aslamdodeen/aslamdodeen/assets/5517052/18223e36-3692-4bfe-a25b-42e0bf98df04)
  [ Sourcs Code](https://github.com/aslamdodeen/CryptoWave)
 
 **Technological Highlights:**
@@ -43,7 +43,7 @@ Introducing CryptoWave, a cutting-edge cryptocurrency app designed to revolution
 
 a sophisticated map application designed with SwiftUI, intricate animations, and structured under the MVVM architecture. This app is meticulously crafted to showcase real-world destinations in an immersive and engaging manner.
 
-![MapSwiftUI](https://github.com/aslamdodeen/IOS-Portfolio/assets/5517052/4c307065-f92d-4d06-a2dd-d4acd8c0ab87)
+![MapSwiftUI-min](https://github.com/aslamdodeen/aslamdodeen/assets/5517052/347a9da3-c29b-49d8-a868-fc58f4ee6f7b)
  [ Sourcs Code](https://github.com/aslamdodeen/MapAppSwiftUI)
 
 **Technical Highlights:**
@@ -62,7 +62,7 @@ a sophisticated map application designed with SwiftUI, intricate animations, and
 I worked on a freelance project for a small private company to develop an app similar to Carrefour's. The app was built using UIKit, Firebase, and followed the MVP architecture.
 
 
-![Store](https://github.com/aslamdodeen/IOS-Portfolio/assets/5517052/138d1d86-cbec-4733-94f6-bccad194cf14)
+![Store-min](https://github.com/aslamdodeen/aslamdodeen/assets/5517052/3e2cc806-0077-4e8d-bc47-a9aa20f85a88)
 
 
 
@@ -92,7 +92,7 @@ Tempo App  was a passion project of mine, Tempo App stands out as a unique creat
 -   **Mentions:** Enhances engagement by allowing users to tag and mention each other.
 -   **Deep Linking:** Simplifies sharing of user accounts and content.
 
-![Tempo](https://github.com/aslamdodeen/IOS-Portfolio/assets/5517052/f06c81af-e3f6-4aca-a3a9-340fe18a4db8)
+![Tempo-min](https://github.com/aslamdodeen/aslamdodeen/assets/5517052/09e32b6b-8635-4750-a066-86e0a65c21f7)
 
 
 
