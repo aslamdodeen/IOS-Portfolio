@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bdc58f46-9fe5-41f2-a852-5561070a9955=" width="200" height="200">
+  <img src="https://github.com/user-attachments/assets/bdc58f46-9fe5-41f2-a852-5561070a9955" width="200" height="200">
 </p>
 <h2 align="center">Islam Aldarabea iOS Software Engineer</h2>
 <h3 align="center">SwiftUI and UIKit Specialist</h3>
