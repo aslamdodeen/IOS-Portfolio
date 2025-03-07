@@ -4,7 +4,6 @@
 </p>
 <h2 align="center">Islam Aldarabea</h2>
 <h2 align="center">Senior iOS Developer SwiftUI & UIKit</h2>
-<h3 align="center">SwiftUI and UIKit Specialist</h3>
 
 <p align="center">I am a self-driven, experienced, and detail-centric iOS Developer with a passion for simplistic and functional software.</p>
 <p align="center">
