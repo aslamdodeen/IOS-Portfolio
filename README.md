@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9a63fba9-9f64-4192-b607-10607f75779a" width="200" height="200">
+  <img src="https://github.com/user-attachments/assets/d1f4b1ca-dfbb-43dd-be05-a48f905f7884" width="200" height="200">
 </p>
 <h2 align="center">Islam Aldarabea iOS Software Engineer</h2>
 <h3 align="center">SwiftUI and UIKit Specialist</h3>
@@ -8,7 +8,7 @@
 <p align="center">I am a self-driven, experienced, and detail-centric iOS Developer with a passion for simplistic and functional software.</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/islam-aldarabea-73978567/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=islamAldarabea&color=blue&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://github.com/user-attachments/files/18246686/ISLAM.ALDARABEA-Resumepdf.pdf"><img src="https://img.shields.io/static/v1?label=Resume&message=Download%20CV&color=mint&style=for-the-badge"></a>&nbsp;&nbsp;
+  <a href="https://github.com/user-attachments/files/19125138/ISLAM.ALDARABEA-Resume.pdf"><img src="https://img.shields.io/static/v1?label=Resume&message=Download%20CV&color=mint&style=for-the-badge"></a>&nbsp;&nbsp;
   
 </p><br>
 
