@@ -2,7 +2,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d1f4b1ca-dfbb-43dd-be05-a48f905f7884" width="200" height="200">
 </p>
-<h2 align="center">Islam Aldarabea iOS Software Engineer</h2>
+<h2 align="center">Islam Aldarabea</h2>
+<h2 align="center">Senior iOS Developer SwiftUI & UIKit</h2>
 <h3 align="center">SwiftUI and UIKit Specialist</h3>
 
 <p align="center">I am a self-driven, experienced, and detail-centric iOS Developer with a passion for simplistic and functional software.</p>
