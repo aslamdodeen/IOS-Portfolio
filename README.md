@@ -15,13 +15,6 @@
 ## CryptoWave
 Introducing CryptoWave, a cutting-edge cryptocurrency app designed to revolutionize your investment experience. Built with SwiftUI, Combine, Core Data, and following the MVVM architectural pattern, CryptoWave brings real-time price data and seamless portfolio management to the forefront.
 
-
-**Key Features:**
-
--   **Live Price Data:** CryptoWave seamlessly integrates with a live data API, ensuring users have access to up-to-the-minute cryptocurrency prices for informed decision-making.
-    
--   **Portfolio Management:** Empowering users with the ability to effortlessly save and monitor their current crypto holdings, CryptoWave simplifies portfolio management.
-    
   
 ![CryptoWave-min](https://github.com/aslamdodeen/aslamdodeen/assets/5517052/18223e36-3692-4bfe-a25b-42e0bf98df04)
  [ Sourcs Code](https://github.com/aslamdodeen/CryptoWave)
@@ -38,10 +31,17 @@ Introducing CryptoWave, a cutting-edge cryptocurrency app designed to revolution
 -   **Core Data Integration:** Implementing Core Data for secure and efficient storage of user portfolios, ensuring data integrity and reliability.
     
    -   **MVVM Architecture:** Employing the MVVM architecture pattern to enhance code maintainability and separation of concerns, resulting in a well-organized and scalable codebase.
+
+
+## spotify Swiftui Clone
+
+![Spotify](https://github.com/user-attachments/assets/decc1e79-0667-4a9a-9af9-a76b581431c0)
+ [ Sourcs Code](https://github.com/aslamdodeen/SpotifyClone)
+
+
+
     
 ## MapAPP
-
-a sophisticated map application designed with SwiftUI, intricate animations, and structured under the MVVM architecture. This app is meticulously crafted to showcase real-world destinations in an immersive and engaging manner.
 
 ![MapSwiftUI-min](https://github.com/aslamdodeen/aslamdodeen/assets/5517052/347a9da3-c29b-49d8-a868-fc58f4ee6f7b)
  [ Sourcs Code](https://github.com/aslamdodeen/MapAppSwiftUI)
