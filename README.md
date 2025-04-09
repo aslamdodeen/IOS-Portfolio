@@ -33,7 +33,7 @@ Introducing CryptoWave, a cutting-edge cryptocurrency app designed to revolution
    -   **MVVM Architecture:** Employing the MVVM architecture pattern to enhance code maintainability and separation of concerns, resulting in a well-organized and scalable codebase.
 
 
-## spotify Swiftui Clone
+## Spotify SwiftUi Clone
 
 ![Spotify](https://github.com/user-attachments/assets/decc1e79-0667-4a9a-9af9-a76b581431c0)
  [ Sourcs Code](https://github.com/aslamdodeen/SpotifyClone)
@@ -41,21 +41,11 @@ Introducing CryptoWave, a cutting-edge cryptocurrency app designed to revolution
 
 
     
-## MapAPP
+## MapAPP SwiftUI, MVVM
 
 ![MapSwiftUI-min](https://github.com/aslamdodeen/aslamdodeen/assets/5517052/347a9da3-c29b-49d8-a868-fc58f4ee6f7b)
  [ Sourcs Code](https://github.com/aslamdodeen/MapAppSwiftUI)
 
-**Technical Highlights:**
-
--   **SwiftUI Integration:** Leveraging SwiftUI as the primary framework for app development ensures a responsive and visually appealing user interface, optimizing the user experience.
-  
--   **MVVM Pattern:**  Employing the MVVM architecture pattern to enhance code maintainability and separation of concerns, resulting in a well-organized and scalable codebase.
--   **Interactive Animations:** Implemented interactive animations with menu and view transitions featuring interactive animations, creating a visually captivating and enjoyable
-    
--   **Destination Showcase:** MapAPP stands out by showcasing real-world destinations, offering users a curated and immersive exploration of various places.
-    
-    
 
 ## Store App
 
