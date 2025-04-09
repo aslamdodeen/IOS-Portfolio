@@ -3,12 +3,12 @@
   <img src="https://github.com/user-attachments/assets/d1f4b1ca-dfbb-43dd-be05-a48f905f7884" width="200" height="200">
 </p>
 <h2 align="center">Islam Aldarabea</h2>
-<h2 align="center">Senior iOS Developer SwiftUI & UIKit</h2>
+<h2 align="center"> iOS Developer SwiftUI & UIKit</h2>
 
 <p align="center">I am a self-driven, experienced, and detail-centric iOS Developer with a passion for simplistic and functional software.</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/islam-aldarabea-73978567/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=islamAldarabea&color=blue&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://github.com/user-attachments/files/19125138/ISLAM.ALDARABEA-Resume.pdf"><img src="https://img.shields.io/static/v1?label=Resume&message=Download%20CV&color=mint&style=for-the-badge"></a>&nbsp;&nbsp;
+  <a href="https://github.com/user-attachments/files/19674650/ISLAM-ALDARABEA-Resume.pdf"><img src="https://img.shields.io/static/v1?label=Resume&message=Download%20CV&color=mint&style=for-the-badge"></a>&nbsp;&nbsp;
   
 </p><br>
 
